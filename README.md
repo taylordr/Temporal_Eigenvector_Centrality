@@ -17,5 +17,4 @@ Included files:
 9. plot_results_for_Georgia_Tech.m - plots the joint-centrality trajectory and condition-centrality trajectory for Georgia Tech
 
 
-Copyright, Dane Taylor 1 September 2016
-
+If you have any questions about the code, please email Dane Taylor at dane.r.taylor@gmail.com.
