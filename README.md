@@ -1,6 +1,4 @@
 # Temporal_Eigenvector_Centrality
-eigenvector centrality for temporal networks
-
 this Matlab code includes scripts and a demo for computing eigenvector centralities for temporal networks
 
 included files:
