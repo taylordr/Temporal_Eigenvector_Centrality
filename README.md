@@ -1,7 +1,10 @@
 # Temporal_Eigenvector_Centrality
-this Matlab code includes scripts and a demo for computing eigenvector centralities for temporal networks
+This Matlab code includes scripts and a demo for computing eigenvector centralities for temporal networks. Please cite the following for any usage of this code:
 
-included files:
+D Taylor, SA Meyers, A Clauset, MA Porter and PJ Mucha (2015) "Eigenvector-based centrality measures for temporal networks" arXiv preprint. http://arxiv.org/abs/1507.01266
+
+
+Included files:
 
 demo_MGP.m - the main script to run
 PhD Exchange Network Data - folder containing network that encodes math PhD exchange between universities based on a study of the Mathematics Genealogy Project - https://genealogy.math.ndsu.nodak.edu/
@@ -14,8 +17,6 @@ compute_TA_centrality_and_FOM_scores.m - computes time-averaged centrality and f
 identify_top_centralities.m - creates a .txt listing the 10 nodes with top time-averaged centrality and first-order-mover scores
 plot_results_for_Georgia_Tech.m - plots the joint-centrality trajectory and condition-centrality trajectory for Georgia Tech
 
+
 Copyright, Dane TAylor 1 September 2016
 
-Please cite the following for any usage of this code:
-
-D Taylor, SA Meyers, A Clauset, MA Porter and PJ Mucha (2015) "Eigenvector-based centrality measures for temporal networks" arXiv preprint. http://arxiv.org/abs/1507.01266
