@@ -1,7 +1,7 @@
 # Temporal_Eigenvector_Centrality
 This Matlab code includes scripts and a demo for computing eigenvector centralities for temporal networks. Please cite the following for any usage of this code:
 
-D Taylor, SA Meyers, A Clauset, MA Porter and PJ Mucha (2015) "Eigenvector-based centrality measures for temporal networks" arXiv preprint. http://arxiv.org/abs/1507.01266
+D Taylor, SA Meyers, A Clauset, MA Porter and PJ Mucha (2015) "Eigenvector-based centrality measures for temporal networks" Multiscale Modeling and Simulation 15(1), 537-574. https://epubs.siam.org/doi/abs/10.1137/16M1066142
 
 
 Included files:
@@ -17,4 +17,4 @@ Included files:
 9. plot_results_for_Georgia_Tech.m - plots the joint-centrality trajectory and condition-centrality trajectory for Georgia Tech
 
 
-If you have any questions about the code, please email Dane Taylor at dane.r.taylor@gmail.com.
+If you have any questions about the code, please email Dane Taylor at danet@buffalo.edu.
